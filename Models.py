@@ -6,7 +6,7 @@ import numpy as np
 import  spdnetwork.nn as nn_spd
 from spdnetwork.optimizers import  MixOptimizer 
 
-
+#MODELS BY JAOR
 def CB1():
     sequential_layers = nn.Sequential(
         #Block
